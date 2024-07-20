@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trantienloc2411" alt="trantienloc2411" /></a> </p>
 
-- 🔭 I’m currently working on [BirdCageShop](https://github.com/Trantienloc2411/BirdCageShop)
+- 🔭 I’m currently working on [Jewelry Store Management](https://github.com/Trantienloc2411/JewelryStoreManagement)
 
 - 🌱 I’m currently learning **NodeJS, Swift**
 
